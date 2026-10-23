@@ -1,0 +1,6 @@
+numpy==2.1.1
+gymnasium==1.2.3
+sumo-rl==1.4.5
+stable-baselines3==2.8.0
+sumolib==1.26.0
+traci==1.26.0
