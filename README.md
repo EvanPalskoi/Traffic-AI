@@ -8,3 +8,11 @@ This project includes two demos:
 - **SUMO simulation:** Uses a trained Proximal Policy Optimization (PPO) agent to select traffic-signal phases in a simulated intersection.
 
 Built with Python, ONNX Runtime, OpenCV, Ultralytics, SUMO-RL, and Stable-Baselines3.
+
+## Downloads
+
+[Download RF-DETR model] https://github.com/EvanPalskoi/Traffic-AI/releases/download/v1.0.0/rfdetr-large.onnx
+
+[Watch or download the demo] https://github.com/EvanPalskoi/Traffic-AI/releases/download/v1.0.0/combined_intersection_demo.mp4
+
+[Download optional YOLO model] https://github.com/EvanPalskoi/Traffic-AI/releases/download/v1.0.0/best.pt
