@@ -1,5 +1,14 @@
 # Traffic AI
 
+## Vehicle Detection and Tracking
+
+https://github.com/user-attachments/assets/ce205427-95f2-4b30-abc5-807100a5331c
+
+## Reinforcement Learning Traffic Control
+
+![PPO traffic-signal control in SUMO](sumo-demo.gif)
+
+
 Vehicle detection, multi-camera tracking visualization, and reinforcement learning traffic-signal control.
 
 This project includes two demos:
